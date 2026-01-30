@@ -1,6 +1,6 @@
 # California Housing: The Gravity of Affordability
 
-### 📊 Project Overview
+### Project Overview
 This project investigates the **"Gravity of Affordability"** in the California housing market. By integrating construction permit data with market sales and demographic trends, we analyzed how housing supply responds—or fails to respond—to price signals and migration pressures across key counties (San Francisco, Los Angeles, Riverside).
 
 [View the Full Presentation (PDF)](housing_datavis.pdf)
@@ -12,7 +12,7 @@ This project investigates the **"Gravity of Affordability"** in the California h
 
 ---
 
-### 🖼️ Key Insights & Visualizations
+### Key Insights & Visualizations
 
 #### 1. The Affordability Gap (Price-to-Income Ratio)
 We calculated the Price-to-Income Ratio (PIR) to measure the widening gap between median household income and median home prices.
@@ -55,7 +55,7 @@ The analysis integrates three distinct datasets to create a comprehensive view o
 
 ---
 
-### 💻 How to Run This Project
+### How to Run This Project
 
 1.  **Clone the repository**
     ```bash
@@ -74,7 +74,7 @@ The analysis integrates three distinct datasets to create a comprehensive view o
 
 ---
 
-### 👥 Authors
+### Authors
 **UC Berkeley MaCSS 2025**
 * **Course:** Data Visualization (Prof. Rodden, GSI Yazen)
 * **Team:** Ruben, Jiyang, Kaia
