@@ -3,6 +3,8 @@
 ### 📊 Project Overview
 This project investigates the **"Gravity of Affordability"** in the California housing market. By integrating construction permit data with market sales and demographic trends, we analyzed how housing supply responds—or fails to respond—to price signals and migration pressures across key counties (San Francisco, Los Angeles, Riverside).
 
+[View the Full Presentation (PDF)](housing_datavis.pdf)
+
 **Key Research Questions:**
 * **The Landscape:** How is affordability distributed across the state?
 * **The "Gravity" Effect:** Does low affordability drive migration to peripheral counties?
